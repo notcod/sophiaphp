@@ -1,11 +1,19 @@
 {
     "name": "notcod/sophiaphp",
+    "description": "Slim",
     "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Notcod\\Sophiaphp\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "Nemanja",
             "email": "mneca99+git@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
