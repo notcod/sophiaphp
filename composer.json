@@ -1,0 +1,11 @@
+{
+    "name": "notcod/sophiaphp",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nemanja",
+            "email": "mneca99+git@gmail.com"
+        }
+    ],
+    "require": {}
+}
